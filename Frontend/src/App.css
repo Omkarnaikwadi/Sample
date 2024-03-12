@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.input-field {
+  width: 100%; /* Adjust width as needed */
+  /* Add more styles as required */
+}
+
